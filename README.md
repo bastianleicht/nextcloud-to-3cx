@@ -43,3 +43,7 @@ Hierbei muss Postgres einmal neu gestartet werden. Dies bricht alle aktiven Anru
 # CSV um 00:20 Uhr importieren
 20 0 * * * /home/scripts/contact_import.sh
 ```
+
+## Contributing
+
+I use the following commit message convention: [Semantic Commit Messages](https://gist.github.com/bastianleicht/2a43faa85eb6bce79f2afa110cd764fc)
